@@ -12,7 +12,7 @@ keyword = ""
 desc = ""
 
 # build links for feed, sitemap
-domain = "izzp.me"
+domain = "www.izzp.me"
 
 # root path for site# if empty, build as http://{domain}/
 root = "http://www.izzp.me/"
