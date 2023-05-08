@@ -33,7 +33,7 @@
   enable_minify_html = true
 
 [[author]]
-  name = "admin"
+  name = ""
   email = "admin@example.com"
   website = ""
   bio = "user bio"
